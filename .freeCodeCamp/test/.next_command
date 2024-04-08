@@ -750,3 +750,9 @@ chmod -x insert_data.sh
 chmod +x insert_data.sh
 cat courses.csv
 clear
+sh insert_data.sh
+cler
+clear
+sh insert_data.sh
+clear
+./insert_data.sh
