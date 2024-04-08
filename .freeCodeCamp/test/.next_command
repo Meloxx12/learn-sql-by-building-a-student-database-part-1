@@ -748,3 +748,5 @@ chmod -x insert_data.sh
 chmod -x
 chmod -x insert_data.sh
 chmod +x insert_data.sh
+cat courses.csv
+clear
