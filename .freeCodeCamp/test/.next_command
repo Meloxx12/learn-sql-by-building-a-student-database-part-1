@@ -761,3 +761,19 @@ __vsc_prompt_cmd_original
 CLEAR
 clear
 ./insert_data.sh
+CLEAR
+./insert_data.sh
+CLEAR
+clear
+./insert_data.sh
+CLEAR
+clear
+./insert_data.sh
+clear
+./insert_data.sh
+clear
+./insert_data.sh
+clear
+./insert_data.sh
+clear
+declare -p IFS
