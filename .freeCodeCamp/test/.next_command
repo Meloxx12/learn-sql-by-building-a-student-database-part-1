@@ -760,3 +760,4 @@ clear
 __vsc_prompt_cmd_original
 CLEAR
 clear
+./insert_data.sh
