@@ -1229,3 +1229,4 @@ ls --color=auto
 clear
 ./insert_data.sh
 clear
+./insert_data.sh
