@@ -1233,3 +1233,5 @@ clear
 CLEAR
 clear
 cp courses.csv courses_test.csv
+clear
+./insert_data.sh
