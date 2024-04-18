@@ -12,11 +12,12 @@ do
   echo $MAJOR_ID
 
   # if not found
-
+  if [[ -z $MAJOR_ID ]]
+  then 
   # insert major
 
   # get new major_id
-
+  fi
   # get course_id
 
   # if not found
