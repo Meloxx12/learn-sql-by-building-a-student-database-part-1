@@ -1443,3 +1443,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./insert_data.sh
 clear
 ./insert_data.sh
+clear
