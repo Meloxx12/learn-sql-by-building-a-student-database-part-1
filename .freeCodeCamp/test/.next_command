@@ -1595,3 +1595,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./insert_data.sh
 psql --username=freecodecamp --dbname=postgres
+clear
+cp students.csv students_test.csv
