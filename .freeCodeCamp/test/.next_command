@@ -1597,3 +1597,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 psql --username=freecodecamp --dbname=postgres
 clear
 cp students.csv students_test.csv
+cat students_test.csv
