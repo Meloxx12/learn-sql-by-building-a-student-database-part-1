@@ -1612,3 +1612,5 @@ clear
 ./insert_data.sh
 clear
 ls --color=auto
+__vsc_prompt_cmd_original
+rm students_test.csv
