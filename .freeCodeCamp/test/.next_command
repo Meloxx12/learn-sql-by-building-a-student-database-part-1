@@ -1598,3 +1598,5 @@ psql --username=freecodecamp --dbname=postgres
 clear
 cp students.csv students_test.csv
 cat students_test.csv
+clear
+./insert_data.sh
